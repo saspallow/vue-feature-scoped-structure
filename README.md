@@ -1,1 +1,1 @@
-# Vue Proeject Structure
+# Vue NameSpaced Module Structure
